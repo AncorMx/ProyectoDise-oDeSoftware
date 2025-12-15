@@ -1,0 +1,20 @@
+/Persistencia/target/
+/Presentacion/target/
+/Negocio/target/
+/Infraestructura/target/
+
+# OAuth2 Credentials - NO SUBIR A GITHUB
+Infraestructura/src/main/resources/credentials.json
+tokens/
+StoredCredential
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+/gestion-catalogo/target/
+/CUAceptarSolicitudes/target/
+/CUBuscarMascotaIdeal/target/
